@@ -20,7 +20,7 @@
   "peerDependencies": {
     "prop-types": "*",
     "react": "16.13.1",
-    "react-native": "*",
+    "react-native": "~0.63.4",
     "react-native-windows": "~0.63.15"
   },
   "dependencies": {
